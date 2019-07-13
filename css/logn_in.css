@@ -1,0 +1,154 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+@charset "UTF-8";
+@font-face{
+  font-family: 'Source Sans Pro italic';
+  src: url(../fonts/SourceSansPro-it.otf);
+}
+@font-face{
+  font-family: 'Source Sans Pro';
+  src: url(../fonts/SourceSansPro-Regular.otf);
+}
+@font-face{
+  font-family: 'Source Sans Pro Bold';
+  src: url(../fonts/SourceSansPro-Bold.otf);
+}
+body{
+    background: linear-gradient(120deg,  rgba(44, 62, 80,1),rgba(44, 62, 80, .2)),url(../imagens/pic-web-2.png);
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: left;
+    display: block;
+}
+
+.log-box{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top:50%;
+    background: rgba(0,0,0,0.6);
+    width: 350px;
+    height: 450px;
+    padding: 75px 30px 20px 30px;
+    color: white;
+    font-family: sans-serif;
+
+}
+#perfil{
+    position: absolute;
+    left: 35%;
+    top: -50px;
+    width: 100px;
+    height:100px;
+    border-radius: 50px;
+    border: 1px solid #1ed9da;
+
+}
+.log-box h1{
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: lighter;
+
+}
+.log-box p{
+    font-size: 12pt;
+    letter-spacing: 1.2px;
+}
+
+
+.log-box input[ type="text"],input[ type="password"]{
+    width: 100%;
+    height: 40px;
+    background: transparent;
+    outline: none;
+    border: none;
+    margin-bottom: 28px;
+    color: white;
+    font-size: 12pt;
+    border-bottom: 1px solid rgba(255,255,255, 0.5);
+
+}
+.log-box input[type="submit"]{
+    width: 100%;
+    height: 50px;
+    outline: none;
+    border: none;
+    background: #1ed9da;
+    margin-bottom: 18px;
+    margin-top: 5px;
+    font-size: 14pt;
+    border-radius: 20px;
+}
+.log-box input[type="submit"]:hover{
+    cursor:pointer;
+                background: transparent;
+                color:  #1ed9da;
+                border: 1px solid  #1ed9da;
+                -webkit-border-radius: 20px;
+}
+.log-box a{
+    font-family: Source Sans Pro ;
+    text-decoration: none;
+    color: rgba(255,255,255,0.5);
+    font-size: 13px;
+    padding: 9px;
+
+}
+.log-box a:hover{
+    color: rgba(255,255,255,0.7);
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    color: rgba(255,255,255,.5);
+    font-family: Source Sans Pro ;
+    font-weight: lighter;
+    font-size: 8pt;
+    padding: 10px;
+}
+.share{
+    background: #1ed9da;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin-right: 40px;
+    margin-bottom: 50px;
+    padding: 15px;
+    border-radius: 45%;
+    box-shadow: 1px 1px 15px white;
+    transition: background 1000ms;
+    z-index: 1;
+}
+.share a{
+    color: #fff;
+    font-size: 14pt;
+    padding: 2px 2px;
+}
+.share a span{
+    font-family: Source Sans Pro bold;
+    width:0;
+    display: inline-block;
+    opacity: 0;
+    margin-right: 15px;
+    transition: display 1s linear;
+    margin: 0;
+    transition: all 400ms;
+}
+.share:hover span{
+    opacity: 1;
+    margin-right: 5px;
+    width: auto;
+
+}
+.share:hover {
+    border-radius: 30px;
+    background-color: #2980b9;
+}

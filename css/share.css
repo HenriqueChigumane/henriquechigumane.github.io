@@ -1,0 +1,145 @@
+@charset "UTF-8";
+@font-face{
+  font-family: 'Source Sans Pro italic';
+  src: url(../fonts/SourceSansPro-it.otf);
+}
+@font-face{
+  font-family: 'Source Sans Pro';
+  src: url(../fonts/SourceSansPro-Regular.otf);
+}
+@font-face{
+  font-family: 'Source Sans Pro Bold';
+  src: url(../fonts/SourceSansPro-Bold.otf);
+}
+body{
+  margin: 0;
+  padding: 0;
+}
+header{
+  width: 100%;
+  height: 100vh;
+  background:  linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)),url(../imagens/share-2.png) ;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: left;
+}
+
+.conteiner{
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  opacity: 1;
+  animation: cont 3s ease-in-out 1;
+}
+.box{
+  margin-bottom: 20px;
+  padding: 10px 15px 10px 20px;
+}
+.box a{
+  font-family: source sans pro;
+  display: inline;
+  font-size: 13pt;
+  font-weight: bold;
+  text-decoration: none;
+  color: #fff;
+}
+.box i{
+font-size: 14pt;
+color: #fff;
+}
+.box *{
+}
+#fb {
+    background-color:#3b5998;
+    transition: 300ms all ease-out;
+}
+#tt {
+    background-color:#26a6d1;
+    transition: 300ms all ease-out;
+}
+#yt {
+    background-color: #dd4b39;
+    transition: 300ms all ease-out;
+}
+#insta{
+    background:linear-gradient(#f40f96,rgba(110, 32, 188, 0.6));
+    transition: 300ms all ease-out;
+  }
+#gp{
+      background-color:#dd4b39;
+      transition: 300ms all ease-out;
+}
+#yt:hover{
+  background: #000;
+}
+#fb:hover{
+  background: #000;
+}
+#tt:hover{
+  background: #000;
+}
+#insta:hover{
+  background: #000;
+}
+#gp:hover{
+  background: #000;
+}
+
+.left{
+  margin-right: 120px;
+  margin-left: 10px;
+}
+.right{
+  margin-right: 10px;
+}
+
+.share{
+    background-color: #000;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    margin-left:40px;
+    margin-bottom: 50px;
+    padding: 15px;
+    border-radius: 45%;
+    box-shadow: 1px 1px 15px white;
+    transition: background 1000ms;
+    z-index: 1;
+    font-family: Source Sans Pro bold;
+}
+.share a{
+    color: #fff;
+    font-size: 12pt;
+    padding: 2px 2px;
+}
+.share a span{
+    width:0;
+    display: inline-block;
+    opacity: 0;
+    margin-right: 15px;
+    transition: display 1s linear;
+    margin: 0;
+    transition: all 400ms;
+}
+.share:hover span{
+    opacity: 1;
+    margin-right: 10px;
+    width: auto;
+
+}
+.share:hover {
+    border-radius: 30px;
+    background-color: #ed2914;
+}
+@keyframes cont {
+0%{
+  opacity: 0;
+  top: 30%
+}
+75%{
+  top:50%;
+  opacity: 1;
+}
+}
