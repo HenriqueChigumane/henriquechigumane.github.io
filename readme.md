@@ -16,6 +16,8 @@ I everyone <br> i'm Henrique Mateus Chigumane <br>
 - Medium: [medium]()
 - LinkedIn: [LinkedIn]()
 - Instagram: [@themisterpaps](https://www.instagram.com/themisterpaps)
-- Dev.to: [@henriquechigumane]()
+- Dev: [@henriquechigumane](https://github.com/HenriqueChigumane/)
 - GitHub: [@henriquechigumaene](https://github.com/HenriqueChigumane/)
-
+# My Open Source projects 
+    you can also contr. to with a single line of code
+    
