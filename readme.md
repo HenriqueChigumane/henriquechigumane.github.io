@@ -1,15 +1,19 @@
 # My Portifolio
 I everyone <br> i'm Henrique Mateus Chigumane <br>
- A.K.A [Mister Paps](https://www.instagram.com/themisterpaps)<br> 
+ A.K.A <strong>[Mister Paps](https://www.instagram.com/themisterpaps)</strong><br> 
  Computer science student at UEM
 
  Bio: "Graphic design, Web design and web developement it's my life style."
 
  # Works
  cheack out my awesome works
-  - [The Mister Paps](https://www.instagram.com/themisterpaps) 
+  - [Red and Blue colletion - 2019](https://www.instagram.com/themisterpaps) 
+  - [4 Year's Collection - 2018](https://www.instagram.com/themisterpaps)
+  - [Without a.K.a Collection - 2018](https://www.instagram.com/themisterpaps)
+  - [Live your dreams - 2018](https://www.instagram.com/themisterpaps)
   - [Medium Posts](http://#.com/)
   - [Slide share posts](http://slideshare.com/)
+
   # contacts
   Find me at:  
 - Email: henriquechigumane@outlook.com  
