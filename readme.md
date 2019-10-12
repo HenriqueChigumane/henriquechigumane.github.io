@@ -1,18 +1,21 @@
 # My Portifolio
-I everyone <br> i'm Henrique Mateus Chigumane <br>
- A.K.A <strong>[Mister Paps](https://www.instagram.com/themisterpaps)</strong><br> 
- Computer science student at UEM
+I everyone <br> 
+ I'm Henrique Mateus Chigumane <br>
+ AKA <strong>[Mister Paps](https://www.instagram.com/themisterpaps)</strong><br> 
+ Computer science student at UEM and Udemy 
 
  Bio: "Graphic design, Web design and web developement it's my life style."
 
  # Works
  cheack out my awesome works
-  - [Red and Blue colletion - 2019](https://www.instagram.com/themisterpaps) 
+  - [Red and Blue album - 2019](https://www.instagram.com/themisterpaps) 
   - [4 Year's Collection - 2018](https://www.instagram.com/themisterpaps)
-  - [Without a.K.a Collection - 2018](https://www.instagram.com/themisterpaps)
-  - [Live your dreams - 2018](https://www.instagram.com/themisterpaps)
-  - [Medium Posts](http://#.com/)
-  - [Slide share posts](http://slideshare.com/)
+  - [Without a.K.a album - 2018](https://www.instagram.com/themisterpaps)
+  - [Live your dreams Collection- 2018](https://www.instagram.com/themisterpaps)
+  - [I get the bag Collection - 2017](https://www.instagram.com/themisterpaps)  
+  ## Posts  
+  - [Medium ](http://#.com/)
+  - [Slideshare ](http://slideshare.com/)
 
   # contacts
   Find me at:  
@@ -23,6 +26,3 @@ I everyone <br> i'm Henrique Mateus Chigumane <br>
 - Dev: [@henriquechigumane](https://dev.to/henriquechigumane)
 - GitHub: [@henriquechigumaene](https://github.com/HenriqueChigumane/)
 - Telegram: [@misterpaps]()
-# My Open Source projects  
-    you can also contr. to with a single line of code
-    
