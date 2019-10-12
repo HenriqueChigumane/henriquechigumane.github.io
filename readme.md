@@ -16,6 +16,6 @@ I everyone <br> i'm Henrique Mateus Chigumane <br>
 - Medium: [medium]()
 - LinkedIn: [LinkedIn]()
 - Instagram: [@themisterpaps](https://www.instagram.com/themisterpaps)
-- Dev.to: @henriquechigumane
-- Gi
+- Dev.to: [@henriquechigumane]()
+- GitHub: [@henriquechigumaene](https://github.com/HenriqueChigumane/)
 
