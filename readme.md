@@ -3,7 +3,7 @@ I everyone <br> i'm Henrique Mateus Chigumane <br>
  A.K.A [Mister Paps](https://www.instagram.com/themisterpaps)<br> 
  Computer science student at UEM
 
- graphic design, Web design and web developement it's my life style.
+ Bio: "Graphic design, Web design and web developement it's my life style."
 
  # Works
  cheack out my awesome works
@@ -16,8 +16,9 @@ I everyone <br> i'm Henrique Mateus Chigumane <br>
 - Medium: [medium]()
 - LinkedIn: [LinkedIn]()
 - Instagram: [@themisterpaps](https://www.instagram.com/themisterpaps)
-- Dev: [@henriquechigumane](https://github.com/HenriqueChigumane/)
+- Dev: [@henriquechigumane](https://dev.to/henriquechigumane)
 - GitHub: [@henriquechigumaene](https://github.com/HenriqueChigumane/)
-# My Open Source projects 
+- Telegram: [@misterpaps]()
+# My Open Source projects  
     you can also contr. to with a single line of code
     
