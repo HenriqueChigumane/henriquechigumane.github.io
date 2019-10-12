@@ -8,5 +8,14 @@ I everyone <br> i'm Henrique Mateus Chigumane <br>
  # Works
  cheack out my awesome works
   - [The Mister Paps](https://www.instagram.com/themisterpaps) 
-  - [Medium Posts] ()
-  - [Slide share posts]
+  - [Medium Posts](http://#.com/)
+  - [Slide share posts](http://slideshare.com/)
+  # contacts
+  Find me at:  
+- Email: henriquechigumane@outlook.com  
+- Medium: [medium]()
+- LinkedIn: [LinkedIn]()
+- Instagram: [@themisterpaps](https://www.instagram.com/themisterpaps)
+- Dev.to: @henriquechigumane
+- Gi
+
