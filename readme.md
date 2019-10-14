@@ -8,10 +8,10 @@ I everyone <br>
 
  # Works
  cheack out my awesome works
-  - [Red and Blue album - 2019](https://www.instagram.com/themisterpaps) 
+  - [Red and Blue album - 2019](https://photos.app.goo.gl/cp4Kv9dB6WZaQX9M7) 
   - [4 Year's Collection - 2018](https://www.instagram.com/themisterpaps)
-  - [Without a.K.a album - 2018](https://www.instagram.com/themisterpaps)
-  - [Live your dreams Collection- 2018](https://www.instagram.com/themisterpaps)
+  - [Without a.K.a album - 2018](https://photos.app.goo.gl/cG46ip3qKeBEMwBXA)
+  - [Live your dreams Collection- 2018](https://photos.app.goo.gl/LZAGphgimEqgx6FT6)
   - [I get the bag Collection - 2017](https://www.instagram.com/themisterpaps)  
   ## Posts  
   - [Medium ](http://#.com/)
