@@ -8,9 +8,9 @@ I everyone <br>
 
  # Works
  cheack out my awesome works
-  - [Red and Blue album - 2019](https://photos.app.goo.gl/cp4Kv9dB6WZaQX9M7) 
+  - [Red and Blue Album - 2019](https://photos.app.goo.gl/cp4Kv9dB6WZaQX9M7) 
   - [4 Year's Collection - 2018](https://photos.app.goo.gl/2j4dkkMSPbykZBzk7)
-  - [Without a.K.a album - 2018](https://photos.app.goo.gl/cG46ip3qKeBEMwBXA)
+  - [Without a.K.a Album - 2018](https://photos.app.goo.gl/cG46ip3qKeBEMwBXA)
   - [Live your dreams Collection- 2018](https://photos.app.goo.gl/LZAGphgimEqgx6FT6)
   - [I get the bag Collection - 2017](https://photos.app.goo.gl/gTZ7VKGpEgMuRwd5A)  
   ## Posts  
@@ -21,8 +21,8 @@ I everyone <br>
   Find me at:  
 - Email: henriquechigumane@outlook.com  
 - Medium: [medium]()
-- LinkedIn: [LinkedIn]()
-- Instagram: [@themisterpaps](https://www.instagram.com/themisterpaps)
+- LinkedIn: [Henrique M. Chigumane]()
 - Dev: [@henriquechigumane](https://dev.to/henriquechigumane)
 - GitHub: [@henriquechigumaene](https://github.com/HenriqueChigumane/)
-- Telegram: [@misterpaps]()
+- Instagram: [@themisterpaps](https://www.instagram.com/themisterpaps)
+
