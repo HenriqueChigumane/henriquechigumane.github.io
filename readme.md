@@ -1,7 +1,7 @@
 # My Portifolio
 I everyone <br> 
  I'm Henrique Mateus Chigumane  | [Mister Paps](https://www.instagram.com/themisterpaps)</strong><br> 
- Computer science student (at UEM) ,Graphic Designer and Web Designer.
+ Computer science student (at UEM), Graphic Designer and Web Designer.
 
 ```
  Bio: "Graphic design, Web design and web developement it's my life style."
