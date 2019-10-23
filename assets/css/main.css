@@ -1563,10 +1563,11 @@ img {
   -moz-transition: all ease-in-out 0.4s;
   -o-transition: all ease-in-out 0.4s;
   transition: all ease-in-out 0.4s; }
-  .img_box_two img {
-    max-width: 40px;
+  .img_box_two i {
+    font-size: 50px;
     position: absolute;
-    left: 0; }
+    left: 0;
+    top: -10px; }
   .img_box_two h5 {
     color: #333333;
     text-transform: capitalize;

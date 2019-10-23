@@ -56,10 +56,11 @@
   position: relative;
   margin-top: 25px ;
   @include single-transition(all,ease-in-out,0.4s);
-  img{
-    max-width: 40px;
+  i{
+    font-size: 50px;
     position: absolute;
     left: 0;
+    top:-10px;
   }
   h5{
     color: $color-dark;
