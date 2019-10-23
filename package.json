@@ -1,5 +1,5 @@
 {
-  "name": "Mr Paps - Portifolio",
+  "name": "Cocoon",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,7 +7,7 @@
     "compile:sass":"node-sass assets/scss/main.scss style.css -w"
   },
   "author": "Henrique",
-  "license": "MIT",
+  "license": "ISC",
   "dependencies": {},
   "devDependencies": {
     "gulp": "^3.9.1",
@@ -20,5 +20,5 @@
     "gulp-uglify": "^3.0.0",
     "livereload": "^0.6.2"
   },
-  "description": "Mister Paps - Portfolio"
+  "description": "Cocoon - Portfolio"
 }
