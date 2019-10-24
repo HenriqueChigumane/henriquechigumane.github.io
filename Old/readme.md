@@ -1,6 +1,12 @@
+<p align="center">
+  <img width="600px" src="assets/img/logo1.png">
+</p>
+ 
+ &nbsp;
+
 # My Portifolio
-I everyone <br> 
- I'm Henrique Mateus Chigumane  | [Mister Paps](https://www.instagram.com/themisterpaps)</strong><br> 
+I everyone </br> 
+ I'm Henrique Mateus Chigumane  | [Mister Paps](https://www.instagram.com/themisterpaps)<br> 
  Computer science student (at UEM), Graphic Designer and Web Designer.
 
 ```
