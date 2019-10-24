@@ -1,0 +1,39 @@
+{
+  "name": "mister_paps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:sass": "node-sass assets/scss/main.scss assets/css/main.css -w"
+  },
+  "author": "Henrique",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-cli": "^1.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-ruby-sass": "^2.1.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "livereload": "^0.6.2"
+  },
+  "description": "Mister Paps - Portifolio",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenriqueChigumane/henriquechigumane.github.io.git"
+  },
+  "keywords": [
+    "portifolio",
+    "design",
+    "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+    "\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Ddesign\u001b[",
+    "paps"
+  ],
+  "bugs": {
+    "url": "https://github.com/HenriqueChigumane/henriquechigumane.github.io/issues"
+  },
+  "homepage": "https://github.com/HenriqueChigumane/henriquechigumane.github.io#readme"
+}
