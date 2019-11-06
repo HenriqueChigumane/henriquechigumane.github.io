@@ -27,7 +27,13 @@
   }
   .img_section{
     background-size: cover;
-    background-position: center center;
+    background-position: top left;
     background-repeat: no-repeat;
+    background: url("../img/bg/maps.jpg") 60% 50%;
+    transition: all .2s;
+    &:hover{
+      transform: scale(1.02);
+      filter: blur(.5px);
+    }
   }
 }

@@ -1358,8 +1358,13 @@ img {
         padding: 25px 20px 25px 15px; }
   .img_card .img_section {
     background-size: cover;
-    background-position: center center;
-    background-repeat: no-repeat; }
+    background-position: top left;
+    background-repeat: no-repeat;
+    background: url("../img/bg/maps.jpg") 60% 50%;
+    transition: all .2s; }
+    .img_card .img_section:hover {
+      transform: scale(1.02);
+      filter: blur(0.5px); }
 
 /*  ----------------------------------------------------
 4 buttons
@@ -1917,14 +1922,6 @@ img {
     color: #000;
     font-size: 13px;
     text-transform: capitalize; }
-
-.map {
-  width: 100%;
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 0;
-  bottom: 0; }
 
 .form-control {
   font-size: 12px;
