@@ -1361,10 +1361,11 @@ img {
     background-position: top left;
     background-repeat: no-repeat;
     background: url("../img/bg/maps.jpg") 60% 50%;
-    transition: all .2s; }
+    transition: all .2s ease-in-out;
+    filter: blur(0.3x); }
     .img_card .img_section:hover {
       transform: scale(1.02);
-      filter: blur(0.5px); }
+      filter: blur(0px); }
 
 /*  ----------------------------------------------------
 4 buttons
