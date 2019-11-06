@@ -35,7 +35,7 @@ I everyone </br>
   Find me at:  
 - Email: henriquechigumane@outlook.com  
 - Medium: [medium]()
-- LinkedIn: [Henrique M. Chigumane]()
+- LinkedIn: [Henrique M. Chigumane](https://www.linkedin.com/in/henrique-mateus-chigumane-93976417a)
 - Dev: [@henriquechigumane](https://dev.to/henriquechigumane)
 - GitHub: [@henriquechigumaene](https://github.com/HenriqueChigumane/)
 - Instagram: [@themisterpaps](https://www.instagram.com/themisterpaps)
