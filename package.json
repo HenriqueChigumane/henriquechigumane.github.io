@@ -9,6 +9,7 @@
   "author": "Henrique",
   "license": "MIT",
   "dependencies": {
+    "node-sass": "^4.13.0",
     "openssl": "^1.1.0"
   },
   "devDependencies": {
