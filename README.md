@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600px" src="assets/img/favicon/android-chrome-512x512.png>
+  <img width="300px" src="assets\img\favicon\android-chrome-512x512.png">
 </p>
  
  &nbsp;
