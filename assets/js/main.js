@@ -24,7 +24,7 @@
   =============================================== */
 'use strict';
 $(window).load(function() {
-    $('.loader').delay(500).fadeOut('slow');
+    $('.loader').delay(10).fadeOut('fast');
 });
 
 
@@ -346,20 +346,6 @@ $(document).ready(function() {
             ]
         };
 
-        // Get the HTML DOM element that will contain your map
-        // We are using a div with id="map" seen below in the <body>
-        var mapElement = document.getElementById('map');
-
-        // Create the Google Map using our element and options defined above
-        var map = new google.maps.Map(mapElement, mapOptions);
-
-        // Let's also add a marker while we're at it
-        var marker = new google.maps.Marker({
-            position: new google.maps.LatLng(lattuide, longtuided),
-            map: map,
-            icon: 'assets/img/map-icon.png',
-            title: 'cocoon!'
-        });
     }
 
 });
