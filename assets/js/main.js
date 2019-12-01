@@ -24,7 +24,7 @@
   =============================================== */
 'use strict';
 $(window).load(function() {
-    $('.loader').delay(10).fadeOut('fast');
+    $('.loader').delay(5).fadeOut('fast');
 });
 
 
