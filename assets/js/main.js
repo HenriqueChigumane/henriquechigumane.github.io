@@ -1,25 +1,18 @@
-/*
- * Cocoon -  Portfolio html  Template
- * Build Date: december 2017
- * Author: colorlib
- * Copyright (C) 2018 colorlib
- */
- /* ------------------------------------- */
+/* ------------------------------------- */
 /*  TABLE OF CONTENTS
- /* ------------------------------------- */
-/*   PRE LOADING                          */
+ /* -------------------------------------*/
+/*   PRE LOADING                         */
 /*   WOW                                 */
-/*   SIDEBAR Menu                                */
-/*   Portfolio Masonry                         */
+/*   SIDEBAR Menu                        */
+/*   Portfolio Masonry                   */
 /*   portfolio-filter                    */
 /*   pop up                              */
 /*   OWL CAROUSEL                        */
-/*    MAPS                               */
-/*   COUNTER JS              */
+/*   COUNTER JS                          */
 
 
 
-    /* ==============================================
+/* ==============================================
 /*  PRE LOADING
   =============================================== */
 'use strict';
