@@ -9,6 +9,7 @@
   "author": "Henrique",
   "license": "MIT",
   "dependencies": {
+    "gulp-rename": "^2.0.0",
     "openssl": "^1.1.0",
     "yeoman-generator": "^4.6.0"
   },
