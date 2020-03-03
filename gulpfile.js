@@ -10,6 +10,7 @@ const concat = require('gulp-concat');
 const uglify = require('gulp-uglify');
 const livereload = require("gulp-livereload");
 const htmlmin = require('gulp-htmlmin');
+var rename = require("gulp-rename");
 
 
 
@@ -37,7 +38,7 @@ gulp.task('mincss',function () {
 });
 
 //minify all css to one html file
-gulp.task('minify', () => {
+gulp.task('minhtml', () => {
     return gulp.src('/*.html')
       .pipe(htmlmin({ collapseWhitespace: true }))
       .pipe(gulp.dest('dist'));
@@ -50,4 +51,4 @@ gulp.task('watch',function () {
 });
 
 gulp.task('default',['style','watch']);
-gulp.task('prod',['style','minscripts'])
+gulp.task('prod',['style','minscripts','minhtml'])
