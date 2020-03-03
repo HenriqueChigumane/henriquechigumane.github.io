@@ -15,7 +15,7 @@ var rename = require("gulp-rename");
 
 
 gulp.task('style',function () {
-    sass('assets/scss/**/*.scss',{ style: 'expanded' })
+    sass('assets/scss/**/*.scss',{ style: 'compress' })
         .pipe(autoprefixer('last 2 version', 'safari 5', 'ie 8', 'ie 9'))
         .pipe(gulp.dest('assets/css/'))
         .pipe(livereload());
@@ -31,7 +31,7 @@ gulp.task('minscripts', function() {
 //minify all css to one css file
 
 gulp.task('mincss',function () {
-    return gulp.src(['assets/css/bootstrap.min.css','assets/css/animate.min.css','assets/css/et-line.css','assets/css/font-awesome.min.css','assets/css/magnific-popup.css','assets/css/slick.css','assets/css/ionicons.min.css'])
+    return gulp.src(['assets/css/bootstrap.min.css','assets/css/main.css','assets/css/animate.min.css','assets/css/et-line.css','assets/css/font-awesome.min.css','assets/css/magnific-popup.css','assets/css/slick.css','assets/css/ionicons.min.css'])
         .pipe(autoprefixer('last 2 version', 'safari 5', 'ie 8', 'ie 9'))
         .pipe(concat('style.min.css'))
         .pipe(gulp.dest('assets/'))
@@ -39,9 +39,9 @@ gulp.task('mincss',function () {
 
 //minify all css to one html file
 gulp.task('minhtml', () => {
-    return gulp.src('/*.html')
+    return gulp.src('dev/*.html')
       .pipe(htmlmin({ collapseWhitespace: true }))
-      .pipe(gulp.dest('dist'));
+      .pipe(gulp.dest('./'));
   });
 
 
