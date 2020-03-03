@@ -9,6 +9,7 @@ const autoprefixer = require('gulp-autoprefixer');
 const concat = require('gulp-concat');
 const uglify = require('gulp-uglify');
 const livereload = require("gulp-livereload");
+const htmlmin = require('gulp-htmlmin');
 
 
 
@@ -35,6 +36,13 @@ gulp.task('mincss',function () {
         .pipe(gulp.dest('assets/'))
 });
 
+//minify all css to one html file
+gulp.task('minify', () => {
+    return gulp.src('/*.html')
+      .pipe(htmlmin({ collapseWhitespace: true }))
+      .pipe(gulp.dest('dist'));
+  });
+
 
 gulp.task('watch',function () {
     livereload.listen();
@@ -42,3 +50,4 @@ gulp.task('watch',function () {
 });
 
 gulp.task('default',['style','watch']);
+gulp.task('prod',['style','minscripts'])

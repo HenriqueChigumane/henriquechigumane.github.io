@@ -9,19 +9,22 @@
   "author": "Henrique",
   "license": "MIT",
   "dependencies": {
-    "node-sass": "^4.13.0",
-    "openssl": "^1.1.0"
+    "openssl": "^1.1.0",
+    "yeoman-generator": "^4.6.0"
   },
   "devDependencies": {
+    "compress-images": "^1.6.0",
     "gulp": "^3.9.1",
-    "gulp-autoprefixer": "^4.0.0",
     "gulp-cli": "^1.4.0",
     "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-htmlmin": "^5.0.1",
     "gulp-livereload": "^3.8.1",
     "gulp-ruby-sass": "^2.1.1",
-    "gulp-sass": "^3.1.0",
-    "gulp-uglify": "^3.0.0",
-    "livereload": "^0.6.2"
+    "gulp-sass": "^3.2.1",
+    "gulp-uglify": "^3.0.2",
+    "livereload": "^0.6.3",
+    "node-sass": "^4.13.1"
   },
   "description": "Mister Paps - Portifolio",
   "repository": {
