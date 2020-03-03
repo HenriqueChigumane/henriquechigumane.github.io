@@ -17,8 +17,9 @@ I everyone </br>
 
  ## Works
  cheack out my awesome works
+  - [Thesigner Album - 2020](https://photos.app.goo.gl/cp4Kv9dB6WZaQX9M7) 
   - [Red and Blue Album - 2019](https://photos.app.goo.gl/cp4Kv9dB6WZaQX9M7) 
-  - [4 Year's Collection - 2018](https://photos.app.goo.gl/2j4dkkMSPbykZBzk7)
+  - [4  Collection - 2018](https://photos.app.goo.gl/2j4dkkMSPbykZBzk7)
   - [Without a.K.a Album - 2018](https://photos.app.goo.gl/cG46ip3qKeBEMwBXA)
   - [Live your dreams Collection- 2018](https://photos.app.goo.gl/LZAGphgimEqgx6FT6)
   - [I get the bag Collection - 2017](https://photos.app.goo.gl/gTZ7VKGpEgMuRwd5A)  
