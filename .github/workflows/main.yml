@@ -22,6 +22,8 @@ jobs:
     - name: installing node packege
       run: node compress-images
     - name: compress images
-      run: node compress images
+      run: node compress-images
     - name: generate-html-for-prod
-      run: gulp minhtml
+      run: |
+          gulp minhtml
+          gulp mincss
