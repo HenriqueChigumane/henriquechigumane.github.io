@@ -5,7 +5,7 @@
 'use strict';
 const gulp = require('gulp');
 const sass = require("gulp-ruby-sass");
-const autoprefixer = require('gulp-autoprefixer');
+//const autoprefixer = require('gulp-autoprefixer');
 const concat = require('gulp-concat');
 const uglify = require('gulp-uglify');
 const livereload = require("gulp-livereload");
