@@ -1,6 +1,11 @@
-<p align="center">
+<div align="center">
   <img width="300px" src="assets\img\favicon\android-chrome-512x512.png">
-</p>
+  
+  ![GitHub language count](https://img.shields.io/github/languages/count/henriquechigumane/henriquechigumane.github.io)
+  ![GitHub top language](https://img.shields.io/github/languages/top/henriquechigumane/henriquechigumane.github.io)
+  ![node-current](https://img.shields.io/node/v/gulp)
+  ![NPM](https://img.shields.io/npm/l/gulp)
+</div>
  
  &nbsp;
 
