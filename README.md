@@ -7,7 +7,7 @@
 # My Portifolio
 I everyone </br> 
  I'm Henrique Mateus Chigumane  | [Mister Paps](https://www.instagram.com/themisterpaps)<br> 
- Computer science student (at UEM), Graphic Designer and Web Designer.
+ Computer Engineering student (at UEM), Graphic Designer and Web Designer.
 
 ```
  Bio: "Graphic design, Web design and web developement it's my life style."
@@ -23,19 +23,20 @@ I everyone </br>
   - [Without a.K.a Album - 2018](https://photos.app.goo.gl/cG46ip3qKeBEMwBXA)
   - [Live your dreams Collection- 2018](https://photos.app.goo.gl/LZAGphgimEqgx6FT6)
   - [I get the bag Collection - 2017](https://photos.app.goo.gl/gTZ7VKGpEgMuRwd5A)  
-
+ 
   &nbsp;
 
   ## Posts  
-  - [Medium ](http://#.com/)
+  - [Medium ](https://medium.com/@henriquesmateus3119)
   - [Slideshare ](http://slideshare.com/);
 
   &nbsp;
 
-  ## contacts
+  ## Contacts
   Find me at:  
 - Email: henriquechigumane@outlook.com  
-- Medium: [medium]()
+- Medium: [@henriquesmateus3119](https://medium.com/@henriquesmateus3119)
+- Pinterest:[@misterpaps](https://pinterest.com/misterpaps)
 - LinkedIn: [Henrique M. Chigumane](https://www.linkedin.com/in/henrique-mateus-chigumane-93976417a)
 - Dev: [@henriquechigumane](https://dev.to/henriquechigumane)
 - GitHub: [@henriquechigumaene](https://github.com/HenriqueChigumane/)
