@@ -10,18 +10,8 @@
  &nbsp;
 
 # My Portifolio
-I everyone </br> 
- I'm Henrique Mateus Chigumane  | [Mister Paps](https://www.instagram.com/themisterpaps)<br> 
- Computer Engineering student (at UEM), Graphic Designer and Web Designer.
-
-```
- Bio: "Graphic design, Web design and web developement it's my life style."
- ```
-
- &nbsp;
-
  ## Works
- cheack out my awesome works
+ cheack out my awesome design works
   - [Thesigner Album - 2020](https://photos.app.goo.gl/cp4Kv9dB6WZaQX9M7) 
   - [Red and Blue Album - 2019](https://photos.app.goo.gl/cp4Kv9dB6WZaQX9M7) 
   - [4  Collection - 2018](https://photos.app.goo.gl/2j4dkkMSPbykZBzk7)
