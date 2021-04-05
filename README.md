@@ -29,7 +29,6 @@
 
   ## Contacts
   Find me at:  
-- Email: henriquechigumane@outlook.com  
 - Medium: [@henriquesmateus3119](https://medium.com/@henriquesmateus3119)
 - Pinterest:[@misterpaps](https://pinterest.com/misterpaps)
 - LinkedIn: [Henrique M. Chigumane](https://www.linkedin.com/in/henrique-mateus-chigumane-93976417a)
